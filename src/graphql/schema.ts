@@ -11,8 +11,8 @@ const characterType = new GraphQLObjectType({
       type: GraphQLString,
     },
     hairColor: {
-      type: GraphQLString
-    }
+      type: GraphQLString,
+    },
   },
 });
 
